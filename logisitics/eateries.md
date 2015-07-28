@@ -13,5 +13,5 @@ Here are some of our favorites, and please suggest some of your own too...
 - [Sicilian Thing Pizza](http://www.sicilianthingpizza.com/)
 - [Lefty's Pizza](http://www.leftyspizza.com/)
 - [Amorcito Corazón Mexican Bistro](http://www.amorcitocorazonsd.com/)
-- [Saguaro's](Saguaro's Mexican food)
+- [Saguaro's](http://www.saguarosmexicanfood.com/)
 
