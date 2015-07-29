@@ -10,7 +10,7 @@ The editor we use for the course is Atom: It’s a free and open-source text and
 [Postgres and PGAdmin](https://postgresql.org)  
 If you’re using a Mac, an alternative and somewhat easier way to set up Postgres is to download Postgres.app. 
 
-[Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha)
+[Chrome](https://www.google.com/intl/en/chrome/browser/desktop/index.html#brand=CHMB&utm_campaign=en&utm_source=en-ha-na-us-sk&utm_medium=ha)  
 Google's web browser
 
 [RubyMine](https://www.jetbrains.com/ruby/)  
@@ -26,5 +26,3 @@ yGYERhossJ7XVcn05idkR7UhYY7QPf
 ===== LICENSE END =====
 
 If you want to be able to work in Windows, I would also suggest installing [Cygwin](https://www.cygwin.com/). But you would be better off installing [Ubuntu](http://www.ubuntu.com/download) into a virtual machine, and then installing tools on that.
-
----------------
