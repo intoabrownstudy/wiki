@@ -1,4 +1,4 @@
-**Learn SD central information dump**
+**Learn SD Central Information Dump**
 
 --------------
 
