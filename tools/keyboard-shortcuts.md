@@ -5,7 +5,7 @@ By pressing a combination of keys, you can do things that normally need a mouse,
 
 # RubyMine
 
-Keyboard&nbsp;Shortcut | What's it do?
+Keyboard&nbsp;Shortcut | Function
 ---------------------- | -------------------------------------------------------
 `⇧ + ⌘ + A`            | Find action by name
 `⌥ +  Enter`           | Show the list of available intention actions
@@ -27,7 +27,7 @@ Keyboard&nbsp;Shortcut | What's it do?
 
 # Atom
 
-Keyboard&nbsp;Shortcut          | What's it do?
+Keyboard&nbsp;Shortcut          | Function
 ------------------------------- | -------------------------------------------------------
 `Shift + ⌘ + p`                 | Toggle command palette
 `⌘ + /`                         | Toggle line/selection comment
@@ -61,7 +61,7 @@ Keyboard&nbsp;Shortcut          | What's it do?
 
 ## HTML/ERB
 
-Keyboard&nbsp;Shortcut | What's it do?
+Keyboard&nbsp;Shortcut | Function
 ---------------------- | -------------------------------------------------------
 `CTRL + Shift + W`     | Magic HTML tag with closing tag.
 `CTRL + Shift + .`     | ERB tag. (Bonus: While still holding `CTRL + Shift`, hit `.` again to automatically remove the `=` from the ERB tag!)
@@ -69,13 +69,13 @@ Keyboard&nbsp;Shortcut | What's it do?
 
 ## ERB
 
-Keyboard&nbsp;Shortcut | What's it do?
+Keyboard&nbsp;Shortcut | Function
 ---------------------- | -------------------------------------------------------
 `CTRL + Shift + W`     | Magic HTML tag with closing tag.
 
 
 ## TERMINAL
 
-Keyboard&nbsp;Shortcut | What's it do?
+Keyboard&nbsp;Shortcut | Function
 ---------------------- | -------------------------------------------------------
 `CMD + Shift + [ `     | Toggle tabs in terminal window.
