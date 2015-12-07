@@ -2,9 +2,11 @@
 
 -----------
 
-This is where we will collect all of the interesting articles that relate to Ruby and Rails... 
+This is where we will collect all of the interesting articles that relate to Ruby and Rails...
 
-- [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)  Essential reading for learning Ruby 
+During the second class...
+
+- [Learn Ruby The Hard Way](http://learnrubythehardway.org/book/)  Essential reading for learning Ruby
 
 - [RubyLogs](http://rubylogs.com/solid-principles/)  Some good principles on modularizing & reducing dependencies
 
@@ -14,7 +16,7 @@ This is where we will collect all of the interesting articles that relate to Rub
 
 - [I Should Know This Stuff](http://ishouldknowthisstuff.logdown.com/posts/283534-instance-class-variables)  Article about Three ways to do class methods
 
-- [CodeFellows](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)  Article on why learning Rails is hard 
+- [CodeFellows](https://www.codefellows.org/blog/this-is-why-learning-rails-is-hard)  Article on why learning Rails is hard
 
 - [RubyMine](https://www.jetbrains.com/ruby/docs/RubyMine_ReferenceCard_Mac.pdf)  Keyboard shortcut cheet sheet for RubyMine.
 
@@ -25,19 +27,10 @@ This is where we will collect all of the interesting articles that relate to Rub
 
 - [RailsCast](https://itunes.apple.com/us/app/railscasts/id366039826?mt=8)  RailsCast app for iPhone & iPad
 
-- [Javascript vs Ruby](http://agentcooper.github.io/js-ruby-comparison/)  Comparisons between Javascript & Ruby​ 
+- [Javascript vs Ruby](http://agentcooper.github.io/js-ruby-comparison/)  Comparisons between Javascript & Ruby​
 
+During the third class...
 
+- [Authorization](http://blog.chaps.io/2015/11/13/role-based-authorization-in-rails.html)  Role-based authorization in Rails
 
-
-
-
-
-
-
-
-
-
-
-
-
+- [GoRails](https://gorails.com/?ref=producthunt)  Short screencasts for Ruby on Rails developers

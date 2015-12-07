@@ -18,11 +18,11 @@ An Integrated Development Environment (IDE) that acts as an editor like Atom, bu
 The course includes a free license, and you can install it on Mac, Windows or Linux.
 User Name: LEARN San Diego
 
-===== LICENSE BEGIN =====
-823125-26112014
-00001GXQsZyuqRS4Q66aRe6kP7RrzV
-FZxo0neHntFGwIxOgluycPSaLs9KPC
-yGYERhossJ7XVcn05idkR7UhYY7QPf
-===== LICENSE END =====
+===== LICENSE BEGIN =====  
+823125-26112014  
+00001GXQsZyuqRS4Q66aRe6kP7RrzV  
+FZxo0neHntFGwIxOgluycPSaLs9KPC  
+yGYERhossJ7XVcn05idkR7UhYY7QPf  
+===== LICENSE END =====  
 
 If you want to be able to work in Windows, I would also suggest installing [Cygwin](https://www.cygwin.com/). But you would be better off installing [Ubuntu](http://www.ubuntu.com/download) into a virtual machine, and then installing tools on that.
