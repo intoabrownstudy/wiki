@@ -1,4 +1,4 @@
-**Learn SD Central Information Dump**
+**LEARN Central Information Dump**
 
 --------------
 
@@ -8,7 +8,7 @@
 
 - [Learning](https://github.com/paulhutch1977/wiki/tree/master/learning)  
 
-- [Logisitics](https://github.com/paulhutch1977/wiki/tree/master/logisitics)  
+- [Logistics](https://github.com/paulhutch1977/wiki/tree/master/logisitics)  
 
 - [Post Learn](https://github.com/paulhutch1977/wiki/tree/master/post-learn)  
 
@@ -17,5 +17,7 @@
 - [Ruby](https://github.com/paulhutch1977/wiki/tree/master/ruby)  
 
 - [Slack Contributions](https://github.com/paulhutch1977/wiki/tree/master/slack-contributions)  
+
+- [Students](https://github.com/paulhutch1977/wiki/tree/master/students)  
 
 - [Tools](https://github.com/paulhutch1977/wiki/tree/master/tools)  

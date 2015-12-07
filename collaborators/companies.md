@@ -1,13 +1,17 @@
+**Companies**
+
+-----------
+
 We are privileged to work with some wonderful tech companies at LEARN.
 Their dedication to ensuring quality apprenticeships after 12 weeks of class time gives added value to what we want to achieve as a school.
 
-Companies offering apprenticeships for Q1 students:
+  Companies offering apprenticeships for Q1 students:
 
 - [Notch8](http://www.notch8.com/)  Ruby on Rails Web Development Agency
 
 - [Sleepdata](http://www.sleepdata.com/)  Comprehensive Sleep Apnea Care
 
-- [Tag sumo](http://tagsumo.com/)  Emailing software
+- [TagSumo](http://tagsumo.com/)  Emailing software
 
 - [PlaySwell](http://www.playswell.com/)  Products Sharing Website
 
