@@ -2,7 +2,8 @@
 
 -----------
 
-- Have users log in and out, then record that information in a session
-- Use password encryption and describe the reason for password encryption
-- Restrict user access to certain routes based on whether they are logged in
-- Restrict user access to certain routes and actions based on user permissions
+- know what **Devise** does and how to use it as an authentication solution for Rails
+
+- know what **Cancan** does and how to use it to implement authorization helpers in Rails
+
+- know what **OmniAuth** does and how to use it to authenticate through web applications such as Facebook and Twitter

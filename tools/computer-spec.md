@@ -10,6 +10,6 @@ The requirements for the computer are:
  - Capable of running the 10.7 operating system or higher.
  - 4 GB of memory.
 
-You should be able to find one from $200-450. We don't expect everyone to be well-versed in buying computers, so we can help you with this.
+You should be able to find one from $200-450.
 
 Let us know if you're not sure whether or not a particular product is suitable for the class.

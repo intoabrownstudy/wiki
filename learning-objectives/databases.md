@@ -1,6 +1,6 @@
-DATABASES
+**DATABASES**
 
-- Create databases and tables within databases using the command line interface
+<!-- - Create databases and tables within databases using the command line interface
 - Create and destroy columns within the database
 - Specify data types for the columns
 - Create, read, update, and destroy records within the database
@@ -18,4 +18,36 @@ DATABASES
 - Define relationships between models by way of ActiveRecord associations
 - Use Ruby to create relationships between individual records
 - Test models and relationships with well-written specs
-- Create coherent plans for models and relationships thereof before coding starts
+- Create coherent plans for models and relationships thereof before coding starts -->
+
+- have a basic understanding of **SQL**
+
+- know the term **schema**
+
+- able to make simple queries to a database
+
+- Define and use **primary keys** for records
+
+- Define and use **foreign keys** for records
+
+- have an understanding of Joins in SQL
+
+- know how to create a database in terminal
+
+- know how to create a table in a database
+
+- Specify data types for the columns
+
+- Create, read, update, and destroy records within the database
+
+- know how to connect Ruby programs to the **Postgres** server
+
+- have an understanding of what **Active Record** is
+
+- have an understanding of **Rake** as a build tool
+
+- know about **Active Record** associations by reading documentation
+
+- know about **Active Record** validations by reading documentation
+
+- know about **Active Record** callbacks by reading documentation

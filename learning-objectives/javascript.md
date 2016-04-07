@@ -1,8 +1,35 @@
 JAVASCRIPT
 
-- Do input with **prompt()** and output with **console.log()** and **alert()**
-- Write clear and concise if-statements, loops, procedural code, and functions
-- Use DOM manipulation techniques to adjust content and styling on the page with Javascript
-- Create event-listeners with associated functions to have websites respond to user behavior
-- Use JSON to store data, then use that data elsewhere
-- Use XHR to fetch information from a remote API, then use that information to display content
+- Input with **prompt()** and output with **console.log()** and **alert()**
+
+- Create **event-listeners** with associated functions to have websites respond to user behavior
+
+- how to dynamically change a header within a webpage using a textbox and a button
+
+- have an understanding of **Variables** in **javascript**
+
+- have an understanding of **Arrays** in **javascript**
+
+- have an understanding of **Functions** in **javascript**
+
+- be able to create simple effects with **JQuery**
+
+- be able to manipulate and traverse of the **DOM**
+
+- have an understanding of Looping in **javascript**
+
+- have an understanding of branching in **javascript**
+
+- be able to build forms in **javascript**
+
+- have an understanding of Scope in **javascript**
+
+- have an understanding of Closures in **javascript**
+
+- have an understanding of **object-oriented design**
+
+- have an understanding of Object Relationships
+
+- have an understanding of what **JSON** is
+
+- know how to implement **JSON** into a Rails project
