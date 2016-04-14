@@ -46,8 +46,4 @@
 
 - have an understanding of **Rake** as a build tool
 
-- know about **Active Record** associations by reading documentation
-
-- know about **Active Record** validations by reading documentation
-
-- know about **Active Record** callbacks by reading documentation
+- know about **Active Record** associations, validations and callbacks by reading documentation

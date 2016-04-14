@@ -12,16 +12,22 @@
 
 - Install gems correctly including but not exclusively...
 
-- know what **Devise** does and how to use it as an authentication solution for Rails
+- know what **Devise** does and how it is used as an authentication solution for Rails
 
-- know what **Cancan** does and how to use it to implement authorization helpers in Rails
+- know what **Capybara** does and how it is used to test web applications by simulating how a real user would interact with your app
 
-- know what **OmniAuth** does and how to use it to authenticate through web applications such as Facebook and Twitter
+- know what **SimpleCov** does and how it is used as a code coverage analysis tool for Ruby
 
-- know what **Paperclip** does and how to use it to manage uploads for Active Record
+- know what **Cancan** does and how it is used to implement authorization helpers in Rails
 
-- know what **Ratyrate** does and how to use it to have star ratings
+- know what **OmniAuth** does and how it is used to authenticate through web applications such as Facebook and Twitter
 
-- know what **Breadcrumbs** does and how to use it to create and manage breadcrumb navigation in Rails
+- know what **Paperclip** does and how it is used to manage uploads for Active Record
 
-- know what **Textatular** does and how to use it to perform text searches in Postgres
+- know what **Ratyrate** does and how it is used to create star ratings
+
+- know what **Breadcrumbs** does and how it is used to create and manage breadcrumb navigation in Rails
+
+- know what **Textatular** does and how it is used to perform text searches in Postgres
+
+- know what **Rubocop** does and how it is used to enforce many of the guidelines outlined in the community Ruby Style Guide

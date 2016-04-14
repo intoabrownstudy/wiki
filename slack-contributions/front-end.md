@@ -25,3 +25,17 @@ During the second class...
 During the third class...
 
 - [HTML5](http://diveintohtml5.info/peeks-pokes-and-pointers.html)  Peeks, Pokes and Pointers​
+
+During the 2016a class...
+
+- [Paletton](http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF) Site for picking colors
+
+- [Google Fonts](https://www.google.com/fonts#ChoosePlace:select) Library of Google Fonts
+
+- [HTML Dog](http://www.htmldog.com/) Info on HTML, CSS and JS  
+
+- [CSS Zen Garden](http://www.csszengarden.com/) Lots of beautiful CSS examples
+
+- [Mozilla Developer Network](https://developer.mozilla.org/en-US/) Connection to Mozilla
+
+- [Flexbox Playground](http://codepen.io/enxaneta/pen/adLPwv) Intro to CSS Flex

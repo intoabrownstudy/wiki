@@ -22,3 +22,5 @@ Here are some of our favorites, and please suggest some of your own too...
 - [Amorcito Corazón Mexican Bistro](http://www.amorcitocorazonsd.com/)
 
 - [Saguaro's](http://www.saguarosmexicanfood.com/)
+
+- [Mama's Bakery](http://mamasbakery.net/menu/)

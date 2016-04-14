@@ -52,3 +52,21 @@ During the third class...
 - [Chrome extensions](http://www.businessinsider.com/the-13-best-google-chrome-life-hacks-2015-11)  Fun Google Chrome extensions
 
 - [Git Flow](http://jeffkreeftmeijer.com/2010/why-arent-you-using-git-flow/)  
+
+During the 2016a class...
+
+- [Pomodoro](http://tomato-timer.com/) Tomato Timer using the Pomdoro time management method
+
+- [Sandi Metz](https://www.youtube.com/watch?v=OMPfEXIlTVE) Talk from Sandi Metz at RailsConf
+
+- [Edutechional](https://www.youtube.com/playlist?list=PLgYiyoyNPrv81SdYk-eoMFacl-CJTO_xa) A great breakdown of Rails while creating a complete project
+
+- [Hacksplaining](https://www.hacksplaining.com/) Interactive exercises teaching about today's most common security vulnerabilities
+
+- [Lemiffe](http://www.lemiffe.com/how-to-deploy-a-static-page-to-heroku-the-easy-way/) Upload simple html/css/javascript projects to Heroku
+
+- [Social Network in Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233#.vp3cbo8qi) Step by step tutorial to build a Rails social networking site
+
+- [Rubocop](https://github.com/bbatsov/rubocop#installation) A Ruby static code analyzer, based on the community Ruby style guide
+
+- [MIT](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) Practice with the command line with this interactive game
