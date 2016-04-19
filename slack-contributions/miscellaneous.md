@@ -63,10 +63,18 @@ During the 2016a class...
 
 - [Hacksplaining](https://www.hacksplaining.com/) Interactive exercises teaching about today's most common security vulnerabilities
 
-- [Lemiffe](http://www.lemiffe.com/how-to-deploy-a-static-page-to-heroku-the-easy-way/) Upload simple html/css/javascript projects to Heroku
+- [Deploying to Heroku](http://www.lemiffe.com/how-to-deploy-a-static-page-to-heroku-the-easy-way/) Upload simple html/css/javascript projects to Heroku
 
 - [Social Network in Rails](https://medium.com/rails-ember-beyond/how-to-build-a-social-network-using-rails-eb31da569233#.vp3cbo8qi) Step by step tutorial to build a Rails social networking site
 
 - [Rubocop](https://github.com/bbatsov/rubocop#installation) A Ruby static code analyzer, based on the community Ruby style guide
 
 - [MIT](http://web.mit.edu/mprat/Public/web/Terminus/Web/main.html) Practice with the command line with this interactive game
+
+- [MySQL Cheat Sheet](http://dev.beneberle.com/2013/05/23/mysql-command-line-cheat-sheet/) MySQL Command Line cheat Sheet
+
+- [Github User Documentation](https://help.github.com/articles/changing-author-info/) Steps to change the name and/or email address recorded in existing commits
+
+- [CMS](http://websitesetup.org/cms-comparison-wordpress-vs-joomla-drupal/) CMS comparison: WordPress vs Joomla vs Drupal
+
+- [Hjson](http://hjson.org/) Hjson, the Human JSON: a configuration file format that caters to humans and helps reduce errors

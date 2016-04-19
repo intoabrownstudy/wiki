@@ -23,3 +23,5 @@ Below are some that might be of particular interest to us here...
 - [Geek-Girl](http://www.meetup.com/Geek-Girl-San-Diego/) Educate and empower every girl and woman at every age level, on every skill level, at every income level on computer technology with fun
 
 - [​San Diego Digital Designers](http://sddd.org) Online meeting place for digital designers in San Diego to meet and greet
+
+- [Swift](http://www.meetup.com/San-Diego-All-Things-SWIFT-Meetup/events/230252647/) Swift programmers of all experience levels and ages, All Things Swift meet up at lead by Toby, a LEARN alumni and hosted by LEARN

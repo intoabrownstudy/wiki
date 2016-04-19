@@ -1,13 +1,13 @@
 **TESTING**
 
-- Describes testing and the purpose(s) of testing
+- Describe testing and the purpose of testing
 
-- Writes clear and concise unit tests for desired behavior and edge cases
+- Write clear and concise unit tests for desired behavior and edge cases
 
-- Students will describe **Test Driven Development**, and will implement **TDD** when directed
+- Describe **Behavior Driven Development**, and can implement **BDD** when directed
 
-- be able to run an **RSpec** test suite
+- Able to run an **RSpec** test suite
 
-- be able to write basic **RSpec** tests
+- Able to write basic **RSpec** tests
 
-- have an understanding of what should be tested
+- Understanding of what aspects of your methods should be tested

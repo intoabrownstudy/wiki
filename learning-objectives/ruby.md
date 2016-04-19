@@ -1,29 +1,39 @@
 **RUBY**
 
-- Can name **ruby** files correctly
+- Name **ruby** files correctly
 
-- Uses appropriate naming and documentation conventions, and follows the ruby style guide
-
-- Can run ruby files from the command line
-
-- Output to the command line with **puts** and/or **print**
-
-- Can collect input of a variety of data types (**string, integer, float**)
-
-- Can use the logical and relational operators to produce **boolean statements**
-
-- Writes clear and correct **if / elsif / else** statements
-
-- Writes clear and correct **loops**
-
-- Uses **arrays** when appropriate, and can iterate over an array
-
-- Uses **hashes** when appropriate, and can iterate over a hash
+- Use appropriate naming and documentation conventions, and follows the ruby style guide
 
 - Writes custom methods with parameters and returns, and generally follows the **Single Responsibility Principle**
 
-- Creates custom **objects** and **classes**
+- Know what a **string** is and its similarity to javascript
 
-- Uses the Ruby core documentation to look up built-in methods and classes
+- Know what a **symbol** is and the difference between it and strings
+
+- Know what a **variable** is and its similarity to javascript
+
+- Know Ruby has four types of scope: **local, global, instance, class**
+
+- Know what an **array** is and its similarity to javascript
+
+- Use **hashes** when appropriate, and can iterate over a hash
+
+- Know how to run Ruby programmes via the Command Line
+
+- Know boolean expressions in Ruby and its similarity to javascript
+
+- Know how to use **if, else, elseif** statements
+
+- Know how to use the **times, for** and **each** loop
+
+- Understand **blocks** as a way of grouping statements and its similarity to closures in javascript
+
+- Know that **methods** in Ruby are a set of expressions that returns a value, and similar to functions in javascript
+
+- Know that in Ruby, all values are objects and that these objects have a class
+
+- Know that class defines what the object does
+
+- Know that an instance variable has a name beginning with **@**, and its scope is confined to whatever object self refers to
 
 - Can write and use **blocks** where appropriate

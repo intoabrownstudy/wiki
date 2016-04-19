@@ -7,3 +7,9 @@
 - Apply styling rules appropriate to a given element
 
 - Logically organize CSS rules
+
+- Use CSS to change the styling of color, font-style, font-weight, font-family, font-size, and line-height
+
+- Create classes in HTML and apply styling to those classes using CSS
+
+- Know how to access Bootstrap's pre-existing styles by download or CDN
