@@ -78,3 +78,9 @@ During the 2016a class...
 - [CMS](http://websitesetup.org/cms-comparison-wordpress-vs-joomla-drupal/) CMS comparison: WordPress vs Joomla vs Drupal
 
 - [Hjson](http://hjson.org/) Hjson, the Human JSON: a configuration file format that caters to humans and helps reduce errors
+
+- [RSpec](https://www.anchor.com.au/wp-content/uploads/rspec_cheatsheet_attributed.pdf) RSpec Cheat Sheet
+
+- [Testing Models](http://everydayrails.com/2012/03/19/testing-series-rspec-models-factory-girl.html) Using RSpec to test model functionality
+
+- [CORs](https://vimeo.com/154380053) CORs: What it means and how it works
