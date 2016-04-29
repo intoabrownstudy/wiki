@@ -12,6 +12,5 @@ If you don’t already have them, you should set up accounts on:
 
 [Github](https://github.com/) is a code management and sharing tool will be an important part of our work at LEARN. Before you come to class, please set up a basic account.
 
-Optional
-Blogging 
-You might enjoy (or appreciate later) keeping a journal of your preparation and completion of school. Writing down your reflections can also help you gain exposure in the community, which can be useful in various ways.
+## Optional: Blogging 
+You might enjoy (or appreciate later) keeping a journal of your preparation and completion of school. Writing down your reflections can also help you gain exposure in the community, which can be useful in various ways. We have asked students in past classes to contribute to LEARN academy's own blog which you can read [here](https://www.learnacademy.org/blog). They talk about their motivations for join LEARN and their experiences throughout the course.

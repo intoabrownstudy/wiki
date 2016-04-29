@@ -9,7 +9,7 @@ Here are the portfolios and Github accounts of the 2016alpha students.
 [Portfolio](http://www.amirforyou.com/) | [Github](https://github.com/anazemian)
 
 - Andrew Edelson
-[Portfolio](http://www.burkefielder.us/) | [Github](https://github.com/aredelso)
+[Github](https://github.com/aredelso)
 
 - Christine Buster
 [Github](https://github.com/christinabuster)
@@ -52,9 +52,6 @@ Here are the portfolios and Github accounts of the 2016alpha students.
 
 - Olivia Porter
 [Portfolio](http://www.oliviakporter.com/) | [Github](https://github.com/oporter1)
-
-- Samantha Montoya
-[Github](https://github.com/sammontoya)
 
 - Ramin Mesghali
 [Github](https://github.com/rmesghali)
