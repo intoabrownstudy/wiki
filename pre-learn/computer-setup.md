@@ -2,10 +2,6 @@
 
 ----------------
 
-At Learn we use the RailsBridge Installfest, a set of step-by-step instructions for installing Ruby, Rails, and other important tools on Mac, Windows, or Linux computers
-
-[RailsBridge](http://installfest.railsbridge.org/installfest/)
-
 It will be useful to do some of the setup before you come. Here are the tools you should install.
 
 [Atom](https://atom.io/)  
@@ -20,3 +16,7 @@ Later on in the course you will need Postgres and PGAdmin
 
 [Postgres and PGAdmin](https://postgresql.org)  
 If you’re using a Mac, an alternative and somewhat easier way to set up Postgres is to download Postgres.app.
+
+At Learn we use the [RailsBridge Installfest](http://installfest.railsbridge.org/installfest/), a set of step-by-step instructions for installing Ruby, Rails, and other important tools on Mac, Windows, or Linux computers
+
+Later on in the course you will need [Postgres and PGAdmin](https://postgresql.org). If you’re using a Mac, an alternative and somewhat easier way to set up Postgres is to download Postgres.app.
